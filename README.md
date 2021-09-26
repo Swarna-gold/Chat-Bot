@@ -59,36 +59,11 @@ SIH PROJECT 2020
 - paper.js
 
 # Members:
-Aryaman Puri 
-: KWOC - Student Mentor
-: Collaborator of taskcluster(Mozilla)
-: Member of Gatsby community
-
-Sagun Gupta
-: Android Developer
-: Participant at Quadcopter 
-
-Sachi Gupta 
-: Ethical hacking Participant in Robothon 2019(IIT DELHI)
-
-
-
-Anubhav Singh 
-: KWOC - Student Mentor
-: JMoC - Student Mentor
-: Contributer of Amahi-ios
-
-Aashim Garg
-: KWOC - Student Mentor 
-: JMoC - Student Mentor
-: Contributer of paper.js
-
-Aman Kumar
-: KWOC - Student Mentor 
-: Web - Developer
-: Contributer of paper.js
-
-
-
-
-
+THAMIZ SELVAN A
+DOING 2nd YEAR COMPUTER SCIENCE ENGINEERING AT KONGU ENGINEERING COLLEGE
+SWARNA L
+DOING 2nd YEAR COMPUTER SCIENCE ENGINEERING AT KONGU ENGINEERING COLLEGE
+VEDAVIYAS KS 
+DOING 2nd YEAR COMPUTER SCIENCE ENGINEERING AT KONGU ENGINEERING COLLEGE
+VIJAYALAKSHMI S
+DOING 2nd YEAR COMPUTER SCIENCE ENGINEERING AT KONGU ENGINEERING COLLEGE
